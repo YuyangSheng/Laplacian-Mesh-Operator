@@ -16,6 +16,11 @@ The following is the version of several libraries to be used for this task. The 
 ## To start with
 You can try `demo.ipynb` to easily get start with the code.
 
+`main.py` under 'utils' folder contains all the related functions.
+<div align='center'>
+<img src='https://github.com/Ilvecoding0912/Laplacian-Mesh-Operator/blob/main/results_img/1679497156134.png' width=550>
+</div>
+
 ## Visualization
 **Bumpy-cube with Laplace-Beltrami Mean Curvatures**
 ![Laplace-Beltrami mean curvature](https://github.com/Ilvecoding0912/Laplacian-Mesh-Operator/blob/main/results_img/bumpy-cube%20with%20cotangent%20mean%20curvatures.png)
